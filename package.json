@@ -1,0 +1,26 @@
+{
+  "name": "react-ui",
+  "version": "1.0.0",
+  "description": "React starter for hands on test evaluation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [
+    "react",
+    "parcel"
+  ],
+  "author": "Sreekanth J Nayar",
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.3",
+    "babel-preset-env": "1.7.0",
+    "babel-preset-react": "6.24.1",
+    "parcel-bundler": "1.12.4"
+  }
+}
